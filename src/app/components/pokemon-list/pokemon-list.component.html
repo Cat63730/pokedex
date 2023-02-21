@@ -1,0 +1,11 @@
+<div class="pokemons-container">
+  <div
+    *ngFor="let pokemon of pokemons"
+    (click)="sendPokemonToParent(pokemon)"
+    [routerLink]="['/pokemon', pokemon.id]"
+    class="pokemon-container"
+  >
+    <p>{{ pokemon.name }}</p>
+    <img [src]="pokemon.image" alt="image d'un pokemon" />
+  </div>
+</div>

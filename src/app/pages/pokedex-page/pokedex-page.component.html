@@ -1,0 +1,20 @@
+<form>
+  <fieldset>
+    <label for="search"></label>
+    <input
+      type="search"
+      id="search"
+      name="search"
+      [(ngModel)]="searchInput"
+      (ngModelChange)="searchPokemon($event)"
+    />
+  </fieldset>
+  <input type="submit" value="Rechercher" />
+</form>
+
+<app-pokemon-list
+  [pokemons]="pokemonsSearched"
+  (pokemonChange)="onPokemonChange($event)"
+></app-pokemon-list>
+
+<app-pokemon-detail [pokemon]="currentpokemon"></app-pokemon-detail>
