@@ -1,3 +1,8 @@
+
+
+![image](https://user-images.githubusercontent.com/94469220/224134326-0a5fa8f7-1ec7-4d63-ba23-73c10e4a8af4.png)
+![image](https://user-images.githubusercontent.com/94469220/224134435-9a21e6b1-5986-4daa-b950-c9a861133f6e.png)
+
 # Pokedex
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
