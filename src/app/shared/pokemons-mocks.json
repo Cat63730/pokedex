@@ -1,0 +1,76 @@
+{
+"pokemons": [
+  {
+    "id": 1,
+    "name": "popo",
+    "image": "./assets/indolence-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 2,
+    "name": "pope",
+    "image": "./assets/Sinusode-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 3,
+    "name": "popou",
+    "image": "./assets/quietude",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 4,
+    "name": "popu",
+    "image": "./assets/projection 2-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 4,
+    "name": "popi",
+    "image": "./assets/production 2-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 5,
+    "name": "popoi",
+    "image": "./assets/prescience 2-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 6,
+    "name": "poupo",
+    "image": "./assets/prescience 2-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 7,
+    "name": "poupi",
+    "image": "./assets/parcelle-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 8,
+    "name": "poupa",
+    "image": "./assets/omniprésence-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 9,
+    "name": "poupe",
+    "image": "./assets/nymphéa",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 10,
+    "name": "poupou",
+    "image": "./assets/matrice-2",
+    "description": "urhfiurhfui"
+  },
+  {
+    "id": 11,
+    "name": "poepo",
+    "image": "./assets/indolence-2",
+    "description": "urhfiurhfui"
+  }
+]
+}
